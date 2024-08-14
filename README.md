@@ -1,2 +1,2 @@
 # trabajo de evaluación
-# this is ehere im going to upload my oursera work
+# this is where im going to upload my Coursera work
